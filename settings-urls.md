@@ -319,7 +319,8 @@
 - FaceTime → (root): `prefs:root=FACETIME`
 - FaceTime → Siri & Search: `prefs:root=FACETIME&path=SIRI_AND_SEARCH`
 - Safari → (root): `prefs:root=SAFARI`
-- Safari → AutoFill: `prefs:root=SAFARI&path=AUTO_FILL`
+- Safari → AutoFill → (root): `prefs:root=SAFARI&path=AUTO_FILL`
+- Safari → AutoFill → Saved Credit Cards: `prefs:root=SAFARI&path=AUTO_FILL/CreditCardList`
 - Safari → Content Blockers: `prefs:root=SAFARI&path=CONTENT_BLOCKERS`
 - Safari → Downloads: `prefs:root=SAFARI&path=DOWNLOADS`
 - Safari → Close Tabs: `prefs:root=SAFARI&path=Close%20Tabs`
