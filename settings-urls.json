@@ -65,6 +65,7 @@
     },
     "Sounds": {
         "(root)": "prefs:root=Sounds",
+        "Haptics": "prefs:root=Sounds&path=HAPTICS",
         "Ringtone": "prefs:root=Sounds&path=Ringtone",
         "Text Tone": "prefs:root=Sounds&path=Text_Messages",
         "New Voicemail": "prefs:root=Sounds&path=Voicemail",
