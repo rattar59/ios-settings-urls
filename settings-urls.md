@@ -60,6 +60,7 @@
 - Screen Time → Downtime: `prefs:root=SCREEN_TIME&path=DOWNTIME`
 - Screen Time → App Limits: `prefs:root=SCREEN_TIME&path=APP_LIMITS`
 - Screen Time → Always Allowed: `prefs:root=SCREEN_TIME&path=ALWAYS_ALLOWED`
+- Screen Time → Screen Distance: `prefs:root=SCREEN_TIME&path=EYE_DISTANCE`
 - Screen Time → Communication Limits: `prefs:root=SCREEN_TIME&path=COMMUNICATION_LIMITS`
 - Screen Time → Content & Privacy Restrictions: `prefs:root=SCREEN_TIME&path=CONTENT_PRIVACY`
 - General → (root): `prefs:root=General`
