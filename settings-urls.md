@@ -36,6 +36,7 @@
 - Notifications → Show Previews: `prefs:root=NOTIFICATIONS_ID&path=SHOW_PREVIEW_GROUP_ID` (credit to: [u/AnthoPak](https://www.reddit.com/r/shortcuts/comments/xsx8j7/does_anyone_know_url_scheme_for_ios_notification/iqoy4lm/))
 - Notifications → Siri Suggestions: `prefs:root=NOTIFICATIONS_ID&path=Siri%20Suggestions`
 - Sounds → (root): `prefs:root=Sounds`
+- Sounds → Haptics: `prefs:root=Sounds&path=HAPTICS`
 - Sounds → Ringtone: `prefs:root=Sounds&path=Ringtone`
 - Sounds → Text Tone: `prefs:root=Sounds&path=Text_Messages`
 - Sounds → New Voicemail: `prefs:root=Sounds&path=Voicemail`

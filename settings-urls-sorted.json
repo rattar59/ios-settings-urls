@@ -530,6 +530,7 @@
     },
     "Sounds": {
         "(root)": "prefs:root=Sounds",
+        "Haptics": "prefs:root=Sounds&path=HAPTICS",
         "AirDrop": "prefs:root=Sounds&path=AIRDROP",
         "Calendar Alerts": "prefs:root=Sounds&path=Calendar%20Alarm",
         "New Mail": "prefs:root=Sounds&path=NEW_MAIL",
